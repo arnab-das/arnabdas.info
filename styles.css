@@ -73,9 +73,11 @@ a:visited {
 }
 
 @media (max-width: 767px) {
-  font-size: 18px;
-  line-height: 1.5;
-  letter-spacing: -.004em;
+  body {
+    font-size: 18px;
+    line-height: 1.5;
+    letter-spacing: -.004em;
+  }
   .header {
     width: auto;
     margin-left: 20px;
