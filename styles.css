@@ -50,8 +50,8 @@ a:visited {
 }
 
 .header {
-  width: 360px;
-  height: 300px;
+  width: 22.5em;
+  height: 15.75em;
   position: absolute;
   /*it can be fixed too*/
   left: 0;
@@ -79,11 +79,7 @@ a:visited {
     letter-spacing: -.004em;
   }
   .header {
-    width: auto;
-    margin-left: 20px;
-    margin-right: 20px;
-    margin: 0 auto;
-    word-wrap: break-word;
+    padding: .8em;
   }
 }
 
